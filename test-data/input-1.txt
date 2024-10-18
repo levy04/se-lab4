@@ -1,0 +1,6 @@
+# Torpedos are fired alternating
+GT4500,2,0,1,0 # Both only have one torpedo
+TORPEDO,SINGLE # Fire a torpedo from primary
+TORPEDO,SINGLE # Fire a torpedo from secondary
+TORPEDO,SINGLE # Fire a torpedo from primary again
+TORPEDO,SINGLE # Fire a torpedo, expecting it to fail
