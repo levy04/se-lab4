@@ -1,0 +1,5 @@
+SUCCESS # creating ship
+SUCCESS # firing from primary first
+SUCCESS # firing from secondary
+SUCCESS # firing from primary again
+FAIL    # trying to fire from secondary, but failing

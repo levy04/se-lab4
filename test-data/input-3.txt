@@ -1,0 +1,5 @@
+GT4500,3,0,0,0      # create ship with only 1 bay with torpedos
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE      # fails, since empty

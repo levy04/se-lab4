@@ -1,0 +1,5 @@
+SUCCESS     # create ship
+SUCCESS
+SUCCESS
+SUCCESS
+FAIL        # fail
